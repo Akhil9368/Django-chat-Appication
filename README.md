@@ -3,6 +3,7 @@ This is a django based Chatting Application in which user can signup with their 
 all these thing done by the help of server and client using python inbuild library
 
 And For the UI Purpose i've used tkinter which is python supoortable library for ui puperopse exactly same as eclipse in java
+and for the images the images thatwe are uploaded automatically saved in the current folder
 
 # Steps to Run the chat App
 First of all download the zip file in the system and extract the folder
@@ -16,7 +17,7 @@ First of all download the zip file in the system and extract the folder
 # chat Screen 1(Signup/Login)
 ![image](https://user-images.githubusercontent.com/85015174/194266186-44a1f2b9-72da-4084-801e-56e67629bf2f.png)
 
-# chat screen 2(Upload Imagein profile)
+# chat screen 2(Upload Image in profile)
 ![image](https://user-images.githubusercontent.com/85015174/194266416-36f01398-2b9e-40cc-91e9-42a14a481737.png)
 
 # chat Screen 3 Chat Screen)
