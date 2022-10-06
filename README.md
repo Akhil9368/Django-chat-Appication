@@ -1,4 +1,8 @@
 # Django-chat-Appication
+This is a django based Chatting Application in which user can signup with their profile and after that user can connect in one to one chat and multiple chat also 
+all these thing done by the help of server and client using python inbuild library
+
+And For the UI Purpose i've used tkinter which is python supoortable library for ui puperopse exactly same as eclipse in java
 
 # Steps to Run the chat App
 1. Start chat_sever.py
