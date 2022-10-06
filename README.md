@@ -10,8 +10,7 @@
 ![image](https://user-images.githubusercontent.com/85015174/194271149-9058cff0-a652-4250-8232-9a0e31529cab.png)
 
 # chat Screen 4
-![part3](https://user-images.githubusercontent.com/85015174/194272873-01fe8cdb-c68c-4079-83a2-1a7d8e8408e3.png)
-
+![file](https://user-images.githubusercontent.com/85015174/194273264-b5212dd2-a0a8-4a53-a964-cd55dd338bf9.png)
 
 
 
