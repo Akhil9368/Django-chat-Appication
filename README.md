@@ -1,5 +1,13 @@
 # Django-chat-Appication
 
+# Steps to Run the chat App
+1. Start chat_sever.py
+2. Open Command prompt (for multiple client)
+3. Copy the path where the folder is uploaded
+4. start chat_client.py(for multiple client)
+5. uplaod the images for different different client
+6. click the button connect for chatting
+
 # chat Screen 1
 ![image](https://user-images.githubusercontent.com/85015174/194266186-44a1f2b9-72da-4084-801e-56e67629bf2f.png)
 
