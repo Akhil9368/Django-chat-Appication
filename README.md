@@ -5,6 +5,7 @@ all these thing done by the help of server and client using python inbuild libra
 And For the UI Purpose i've used tkinter which is python supoortable library for ui puperopse exactly same as eclipse in java
 
 # Steps to Run the chat App
+First of all download the zip file in the system and extract the folder
 1. Start chat_sever.py
 2. Open Command prompt (for multiple client)
 3. Copy the path where the folder is uploaded
