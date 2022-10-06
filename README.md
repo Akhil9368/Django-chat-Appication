@@ -5,6 +5,9 @@ all these thing done by the help of server and client using python inbuild libra
 And For the UI Purpose i've used tkinter which is python supoortable library for ui puperopse exactly same as eclipse in java
 and for the images the images thatwe are uploaded automatically saved in the current folder
 
+and
+# server count the client and which client is joined it also shown the message in chatbox
+
 # Steps to Run the chat App
 First of all download the zip file in the system and extract the folder
 1. Start chat_sever.py
